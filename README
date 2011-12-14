@@ -1,0 +1,21 @@
+    Ok, so this is the repository for all of the website code.  You will probably
+have to download the git software if you want to be able to make changes off of
+github.
+    The basic idea is that you make a change, you fork the repo, make a
+branch for the change (this allows you to keep the main branch of the fork up
+to date as other people make changes) and submit a pull request to have your
+edits/additions added to the main branch (main).  
+    The goal behind using github is that it facilitates developer
+communications and it keeps a running log of all of the edits we make so if we
+break/delete/lose/get-haxxored, everything is right here.  It's also really
+pretty looking and easy to use (relative to emailing code back and forth, trust
+me).
+    Check back here later and I'll probably have some code conventions and more
+detailed instructions on everything.
+
+tl;dr
+    -Hi, this is the code
+    -download git
+    -lurn how use git
+
+
